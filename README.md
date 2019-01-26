@@ -1,3 +1,2 @@
 # hello-space
-Just a test repository
-I am an alien
+This just a test repository and I am just an alien
