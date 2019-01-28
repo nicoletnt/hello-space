@@ -1,5 +1,5 @@
 # hello-space
-This is just a test repository containing info about the stars I want to gaze with you. Did you know that Jupyter owes a notebook? They say it's full of data about the meaning of life. It's full of love...
+This is just a test repository containing info about the stars I want to gaze at with you. Did you know that Jupyter owes a notebook? They say it's full of data about the meaning of life. It's full of love...
 
 Touch me, I am losing shape.
 Look, I am invisible, can you say my name?
