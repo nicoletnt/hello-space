@@ -1,5 +1,5 @@
 # hello-space
-Did you know that Jupyter owes a notebook? They say it's full of data about the meaning of life. It's full of love...
+Did you know that Jupyter owes a notebook? 
 
 Look, I am invisible, can you say my name?
 Catch me, I am almost there...
